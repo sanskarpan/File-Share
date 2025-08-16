@@ -1,4 +1,4 @@
-# P2P File Sharing App — Phase-wise Development Plan
+# P2P File Sharing App 
 
  **Objective**: Build a high-performance, scalable, command-line peer-to-peer (P2P) file sharing application in C++17 on Linux. The app will use **TCP/IP socket communication** and **POSIX multithreading**, with performance tuning for **200+ concurrent peers**.
 
