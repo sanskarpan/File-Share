@@ -11,9 +11,9 @@
 
 **Tasks:**
 
-* [ ] Initialize Git repository and `.gitignore`.
-* [ ] Set up directory structure (`src/`, `include/`, `tests/`, `build/`).
-* [ ] Write `CMakeLists.txt` for project and submodules.
+* [X] Initialize Git repository and `.gitignore`.
+* [X] Set up directory structure (`src/`, `include/`, `tests/`, `build/`).
+* [X] Write `CMakeLists.txt` for project and submodules.
 * [ ] Implement:
 
   * TCP server (`Server.cpp`)
