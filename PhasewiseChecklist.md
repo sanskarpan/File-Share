@@ -35,8 +35,8 @@
 
 **Tasks:**
 
-* [ ] Define a `Peer` class with metadata.
-* [ ] Implement peer list maintenance (`PeerManager.cpp`).
+* [X] Define a `Peer` class with metadata.
+* [X] Implement peer list maintenance (`PeerManager.cpp`).
 * [ ] Add bootstrap server for initial peer list sharing.
 * [ ] Design and parse a simple protocol message format (e.g., JSON or custom).
 
