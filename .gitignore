@@ -1,0 +1,30 @@
+build*/
+*.log
+*.o
+*.so
+*.a
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+downloads/
+shared/*.txt
+shared/*.bin
+coverage.html
+*.gcov
+*.gcda
+*.gcno
+.coverage/
+compile_commands.json
+p2p-share
+core
+valgrind-out.txt
+
+# Documentation files
+docs/html/
+docs/latex/
+
+# OS specific
+.DS_Store
+Thumbs.db
