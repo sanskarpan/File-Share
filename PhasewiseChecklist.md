@@ -14,7 +14,7 @@
 * [X] Initialize Git repository and `.gitignore`.
 * [X] Set up directory structure (`src/`, `include/`, `tests/`, `build/`).
 * [X] Write `CMakeLists.txt` for project and submodules.
-* [ ] Implement:
+* [X] Implement:
 
   * TCP server (`Server.cpp`)
   * TCP client (`Client.cpp`)
@@ -54,9 +54,9 @@
 
 **Tasks:**
 
-* [ ] Implement local file scanning and metadata hashing (e.g., SHA-256).
-* [ ] Exchange file lists with connected peers.
-* [ ] Store peer-file mapping for search.
+* [X] Implement local file scanning and metadata hashing (e.g., SHA-256).
+* [X] Exchange file lists with connected peers.
+* [X] Store peer-file mapping for search.
 
 **Milestone Deliverable:**
 
