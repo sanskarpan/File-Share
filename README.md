@@ -40,8 +40,8 @@ sudo apt-get install libgtest-dev valgrind clang-format
 
 ```bash
 # Clone repository
-git clone <repository-url>
-cd p2p-file-sharing
+git clone https://github.com/sanskarpan/File-Share.git
+cd File-share
 
 # Build release version
 make release
