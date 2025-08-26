@@ -73,7 +73,7 @@
 
 **Tasks:**
 
-* [ ] Use POSIX threads to handle incoming requests per thread.
+* [X] Use POSIX threads to handle incoming requests per thread.
 * [ ] Design message types: `REQ_FILE`, `SEND_FILE`, `ACK`, `ERR`.
 * [ ] Buffering system for efficient transfer (custom chunk size).
 * [ ] Support resumable downloads using byte-range requests.
@@ -93,7 +93,7 @@
 
 **Tasks:**
 
-* [ ] Use `select()`/`poll()` or `epoll()` for multiplexing.
+* [X] Use `select()`/`poll()` or `epoll()` for multiplexing.
 * [ ] Handle socket readiness and errors gracefully.
 * [ ] Tune socket buffer sizes and chunked reading/writing.
 * [ ] Benchmark throughput and latency under load.
