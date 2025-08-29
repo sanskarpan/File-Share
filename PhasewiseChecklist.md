@@ -155,7 +155,7 @@
 **Tasks:**
 
 * [ ] Add installable build via CMake.
-* [ ] Write `README.md` with usage instructions.
+* [X] Write `README.md` with usage instructions.
 * [ ] Package project as `.tar.gz` or `.deb`.
 * [ ] Add sample configs and bootstrap server IPs.
 
