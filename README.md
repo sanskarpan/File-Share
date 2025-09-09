@@ -181,11 +181,6 @@ make memcheck
 - `ERROR_MESSAGE`: Error reporting
 - `PING/PONG`: Heartbeat mechanism
 
-## Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-
 ### Code Style
 
 - C++17 standard
