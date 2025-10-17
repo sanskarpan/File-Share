@@ -189,7 +189,7 @@ make memcheck
 - Run static analysis: `make lint`
 
 
-## Acknowledgments
+## Reference
 
 - POSIX socket programming examples
 - Linux epoll documentation
